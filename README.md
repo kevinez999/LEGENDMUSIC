@@ -76,7 +76,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 ### StringSession
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GalaxyOp/LEGENDMUSICBot#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@KrishnaJaiswal1/LEGENDMUSIC#main.py) 
 
 
 ### Mandatory Vars.
@@ -115,17 +115,17 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 - Inline search is also supported.
 
-* Bot Link:  <a href="https://t.me/W2H_Music_1_BOT" alt="LEGENDMUSIC"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-LEGENDMUSIC-blue" /> </a>
-* News channel: <a  href="https://t.me/W2H_Userbot" alt="LEGENDMUSIC Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-LEGENDMUSIC%20Updates-9cf" /> </a>
+* Bot Link:  <a href="https://t.me/Legend_Mr_Hacker" alt="LEGENDMUSIC"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-LEGENDMUSIC-blue" /> </a>
+* Contact Me: <a  href="https://t.me/Legend_Mr_Hacker" alt="LEGENDMUSIC Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-LEGENDMUSIC%20Updates-9cf" /> </a>
 
 ## Support
-- [Channel](https://t.me/W2H_userbot)
-- [Group](https://t.me/W2HSupport)
+- [Owner](https://t.me/Legend_Mr_Hacker)
+- [Creator](https://t.me/Legend_Mr_Hacker)
 
 ## Credits
-- [DaisyXMusic](https://github.com/TeamDaisyX/DaisyXMusic)
+- [DaisyXMusix](https://github.com/TeamDaisyX/DaisyXMusic)
 - [IisGaurav](https://github.com/IisGaurav):DEV
-- [hamker cat](https://github.com/thehamkercat/Telegram_VC_Bot)
+- [Legend-OS](https://github.com/LEGEND-OS/LEGENDMUSIC)
 - [Roj](https://github.com/rojserbest)
 - [Marvin](https://github.com/BlackStoneReborn)
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
