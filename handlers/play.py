@@ -756,7 +756,7 @@ async def jiosaavn(client: Client, message_: Message):
              [
                InlineKeyboardButton(
                    text="⭐ Support ⭐",
-                   url='https://t.me/W2HSupport')
+                   url='https://t.me/@Legend_Mr_Hacker')
              ],
              [       
                InlineKeyboardButton(
