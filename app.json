@@ -20,15 +20,15 @@
       "value": ""
     },
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps",
+      "description": "Search @UseTGXBot.Send Ur Phone Number To Bot And Copy Ur Web login Code & Send To @UseTGXBot",
       "required": true
     },
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps",
+      "description": "Search @UseTGXBot.Send Ur Phone Number To Bot And Copy Ur Web login Code & Send To @UseTGXBot",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "description": "Search @Missrose_bot.Start & Send /info.Copy Ur Id And Paste Here.",
       "required": true
     },
     "DURATION_LIMIT": {
