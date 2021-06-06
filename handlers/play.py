@@ -490,8 +490,8 @@ async def play(_, message: Message):
                 ],                     
                 [
                    InlineKeyboardButton(
-                       text="⭐ Support ⭐",
-                       url='https://t.me/W2HSupport')
+                       text="⭐ OWNER ⭐",
+                       url='https://t.me/Legend_Mr_Hacker')
                 ],
                 [       
                     InlineKeyboardButton(
@@ -622,8 +622,8 @@ async def deezer(client: Client, message_: Message):
              ],                     
              [
                InlineKeyboardButton(
-                   text="⭐ Support ⭐",
-                   url='https://t.me/W2HSupport')
+                   text="⭐ OWNER ⭐",
+                   url='https://t.me/Legend_Mr_Hacker')
              ],
              [       
                  InlineKeyboardButton(
