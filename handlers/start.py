@@ -27,7 +27,7 @@ async def start(_, message: Message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "Add To Your Group⚡️", url="https://t.me/LEGEND_MUSIC_OP?startgroup=true"
+                        "Add To Your Group⚡️", url="https://t.me/Legend_Mr_Musicbot?startgroup=true"
                     )
                 ]
             ]
