@@ -1,6 +1,5 @@
-
 # LEGENDMUSIC TELEGRAM VC MUSIC BOT 
-[![LEGENDMUSIC logo](https://telegra.ph/file/b72173cedc8304b2ddfd3.jpg)](https://t.me/Legend_Mr_Hacker)
+[![LEGENDMUSIC logo](https://telegra.ph/file/acc4bb3485bc18f573006.jpg)](https://t.me/Legend_Mr_Hacker)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
@@ -118,15 +117,10 @@ Copy `example.env` to `.env` and fill it with your credentials.
 * Bot Link:  <a href="https://t.me/Legend_Mr_Hacker" alt="LEGENDMUSIC"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-LEGENDMUSIC-blue" /> </a>
 * Contact Me: <a  href="https://t.me/Legend_Mr_Hacker" alt="LEGENDMUSIC Updates"> <img  src="https://img.shields.io/badge/%F0%9F%92%A1-LEGENDMUSIC%20Updates-9cf" /> </a>
 
-## Support
+## CONTACT ME
 - [Owner](https://t.me/Legend_Mr_Hacker)
 - [Creator](https://t.me/Legend_Mr_Hacker)
 
 ## Credits
-- [DaisyXMusix](https://github.com/TeamDaisyX/DaisyXMusic)
-- [IisGaurav](https://github.com/IisGaurav):DEV
-- [Legend-OS](https://github.com/LEGEND-OS/LEGENDMUSIC)
-- [Roj](https://github.com/rojserbest)
-- [Marvin](https://github.com/BlackStoneReborn)
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
+- [LEGEND](https://github.com/LEGEND-OS)
 
