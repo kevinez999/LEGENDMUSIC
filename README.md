@@ -1,5 +1,5 @@
 # LEGENDMUSIC TELEGRAM VC MUSIC BOT 
-[![LEGENDMUSIC logo](https://telegra.ph/file/acc4bb3485bc18f573006.jpg)](https://t.me/Legend_Mr_Hacker)
+[![LEGENDMUSIC logo](https://telegra.ph/file/4c96dc821c1d9375c033a.jpg)](https://t.me/Legend_Mr_Hacker)
 
 
 -It is inspired from su music project and hamkercat's telegram voice bot.
