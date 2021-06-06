@@ -1,7 +1,7 @@
 {
   "name": "LEGENDMUSIC",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat.Made By @Legend_Mr_Hacker Powered by PyTgCalls.",
-  "logo": "https://telegra.ph/file/a05c86d5a30fac6641381.jpg",
+  "logo": "https://telegra.ph/file/acc4bb3485bc18f573006.jpg",
   "keywords": ["music", "voicechat", "telegram"],
   "repository": "https://github.com/LEGEND-OS/LEGENDMUSIC",
   "stack": "container",
