@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 load_dotenv()
 que = {}
 SESSION_NAME = getenv("SESSION_ALFABET", "session")
-BOT_TOKEN = getenv("BOT_TOKEN")
+BOT_TOKEN = getenv("1805888447:AAEmvdnSM7uYrufgad_euRScEFirir59ddU")
 BOT_NAME = getenv("BOT_ALFABET")
 admins = {}
 API_ID = int(getenv("5005292"))
