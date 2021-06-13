@@ -4,12 +4,12 @@ from dotenv import load_dotenv
 
 load_dotenv()
 que = {}
-SESSION_NAME = getenv("SESSION_NAME", "session")
+SESSION_NAME = getenv("SESSION_ALFABET", "session")
 BOT_TOKEN = getenv("BOT_TOKEN")
-BOT_NAME = getenv("BOT_NAME")
+BOT_NAME = getenv("BOT_ALFABET")
 admins = {}
-API_ID = int(getenv("API_ID"))
-API_HASH = getenv("API_HASH")
+API_ID = int(getenv("5005292"))
+API_HASH = getenv("44877054c7ecea9279d3bb6a8bd84c01")
 
 DURATION_LIMIT = int(getenv("DURATION_LIMIT", "7"))
 
